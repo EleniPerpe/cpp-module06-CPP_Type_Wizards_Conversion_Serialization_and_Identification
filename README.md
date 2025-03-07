@@ -1,0 +1,1 @@
+This project demonstrates fundamental C++ concepts such as type conversion, serialization, and runtime type identification. It involves the implementation of multiple exercises to handle scalar type conversion, pointer serialization, and dynamic type identification using polymorphism.
